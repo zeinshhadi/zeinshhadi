@@ -1,4 +1,4 @@
-![MasterHead](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
 <h1 align="center">Hi 👋, I'm Zein Shhadi</h1>
