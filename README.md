@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeinshhadi&label=Profile%20views&color=0e75b6&style=flat" alt="zeinshhadi" /> </p>
 
-- 🌱 I’m currently learning **Flutter And Dart**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Flutter,Dart,Html,CSS**
 
