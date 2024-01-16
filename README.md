@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **React, Laravel PHP, Flutter, Dart, NodeJS**
-
-- 📫 How to reach me **zeinshhadi@gmail.com**
+- 💬 Ask me about **React, Laravel, Flutter, Dart, NodeJS**
 
 
 <h3 align="left">Languages and Tools:</h3>
