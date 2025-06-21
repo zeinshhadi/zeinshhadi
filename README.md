@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently working as a **Software Development**
+- 🌱 I’m currently working as a **Software Developer**
 
 - 💬 Ask me about **Laravel, Flutter, Dart**
 
