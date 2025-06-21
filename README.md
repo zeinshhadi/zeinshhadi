@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently developing my skills in **Software Development**
+- 🌱 I’m currently working as a **Software Development**
 
-- 💬 Ask me about **React, Laravel, Flutter, Dart, NodeJS**
+- 💬 Ask me about **Laravel, Flutter, Dart**
 
 
 <h3 align="left">Languages and Tools:</h3>
